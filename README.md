@@ -1,2 +1,3 @@
 # hello-world
 Pa mañana es tarde...
+A little bit more of information following the guide steps
